@@ -1,0 +1,26 @@
+.headerButton{
+    padding: 10px;
+    margin: 10px;
+    background-color: #850000;
+}
+
+.header{
+    background-color: #ff0000;
+    opacity: 0.75;
+    padding: 20px;
+}
+
+body{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.grid{
+    border: 1px solid black;
+    display:grid;
+    grid-template-columns: auto;
+}
